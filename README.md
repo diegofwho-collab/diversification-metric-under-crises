@@ -67,7 +67,7 @@ Available in the `notebooks` directory.
 
 The empirical contrast between traditional linear correlation and Clayton copula lower-tail dependence demonstrates that average co-movements and crisis dynamics differ significantly.
 
-![Correlation vs Tail Dependence](figures/matrix_comparison.png)
+![Correlation vs Tail Dependence](figures/heatmaps_comparison1.png)
 
 * **SPY-QQQ Persistence:** The strong relationship between SPY and QQQ remains highly coupled under extreme market conditions, driven by common systemic risk factors.
 * **Equity-Treasury Decoupling:** Lower-tail dependence drops to exactly 0.0000, confirming that long-term Treasury bonds (TLT) experience zero contagion during equity market crashes.
