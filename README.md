@@ -1,4 +1,4 @@
-# Measuring Effective Diversification During Financial Crises
+# ENAUC (Effective Number of Assets Under Crises): A Tail-Dependence Diversification Metric
 The cration of a metric that measures the diversification of a portfolio under a crisis scenario
 ---
 ## 🔍 Overview
@@ -7,6 +7,12 @@ The methodology combines GARCH filtering, Clayton copulas, and information theor
 - Estimate lower-tail dependence structures across multi-asset portfolios.
 - Perform spectral analysis on tail dependence matrices to identify dominant crisis risk factors.
 - Compute the Effective Number of Assets Under Crises (ENAUC) using spectral entropy to quantify surviving diversification.
+
+---
+
+## 💡 Why this matters? 
+
+Traditional correlation matrices often underestimate systemic risk because correlations change dramatically during market crises. ENAUC focuses on lower-tail dependence to measure how much diversification actually survives under extreme market stress.
 
 ---
 ## 🧮 Methodology
